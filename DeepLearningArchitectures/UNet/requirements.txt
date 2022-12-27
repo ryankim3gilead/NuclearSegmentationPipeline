@@ -11,7 +11,7 @@ Datahandling==3.3.0
 Pillow==6.2.0
 kaggle==1.5.4
 skimage==0.0
-setuptools==40.4.3
+setuptools==65.5.1
 Theano==0.9.0
 Lasagne==0.2.dev1
 seaborn==0.7.0.dev0
